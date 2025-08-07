@@ -17,7 +17,8 @@
 
 **StarLogistik** adalah aplikasi berbasis web yang dibangun menggunakan framework **CodeIgniter 4**, bertujuan untuk membantu klien dalam mengelola pemesanan, pengiriman, dan laporan logistik secara efisien.
 
-**Client** : Hasby
+***Client*** : Hasby - Tegal
+
 ---
 
 ## 🚀 Fitur Utama
