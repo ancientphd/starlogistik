@@ -21,14 +21,14 @@
 
 **Client** : Hasby - Tegal.
 
+https://starlogistik.my.id/
 ---
 
 ## 🚀 Fitur Utama
 - 📦 Manajemen pemesanan dan data pengiriman
-- 📍 Pelacakan status pengiriman
 - 📊 Dashboard laporan real-time
 - 👥 Login & Role Admin/Customer
-- 📁 Kelola produk, kurir, dan wilayah
+- 📁 Kelola produk
 
 ---
 
